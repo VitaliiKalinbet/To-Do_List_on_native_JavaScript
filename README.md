@@ -11,4 +11,4 @@ https://vitaliikalinbet.github.io/To-Do_List_on_native_JavaScript/index.html
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/VitaliiKalinbet/To-Do_List_on_native_JavaScript/blob/master/LICENSE) file for details
